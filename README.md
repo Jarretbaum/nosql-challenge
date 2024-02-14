@@ -15,7 +15,6 @@ This repository explores the Eat Safe, Love dataset using MongoDB, PyMongo, Jupy
 ## Resources
 
 - [MongoDB](https://www.mongodb.com)
-- [Stack Overflow - Query String in JavaScript](https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript/901144#901144)
 - [Stack Overflow - Load Data from MongoDB into Pandas DataFrame](https://stackoverflow.com/questions/17805304/how-can-i-load-data-from-mongodb-collection-into-pandas-dataframe)
 - [GeeksforGeeks - MongoDB Comparison Query Operators](https://www.geeksforgeeks.org/mongodb-comparison-query-operators/)
 - [DigitalOcean - How to Use Aggregations in MongoDB](https://www.digitalocean.com/community/tutorials/how-to-use-aggregations-in-mongodb)
