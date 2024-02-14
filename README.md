@@ -15,6 +15,7 @@ This repository explores the Eat Safe, Love dataset using MongoDB, PyMongo, Jupy
 ## Resources
 
 - [MongoDB](https://www.mongodb.com)
+- [PyMongo Documentation](https://pymongo.readthedocs.io/en/stable/index.html)
 - [Stack Overflow - Load Data from MongoDB into Pandas DataFrame](https://stackoverflow.com/questions/17805304/how-can-i-load-data-from-mongodb-collection-into-pandas-dataframe)
 - [GeeksforGeeks - MongoDB Comparison Query Operators](https://www.geeksforgeeks.org/mongodb-comparison-query-operators/)
 - [DigitalOcean - How to Use Aggregations in MongoDB](https://www.digitalocean.com/community/tutorials/how-to-use-aggregations-in-mongodb)
